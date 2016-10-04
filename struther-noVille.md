@@ -8,3 +8,4 @@
 - Famous Hamburger
 - Fred's Ice Cream
 - Ollie's
+- La Pita
