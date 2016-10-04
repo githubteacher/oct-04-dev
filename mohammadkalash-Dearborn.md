@@ -1,6 +1,6 @@
 
 ###Where to Eat
 
-- Sponge Docks
-- Dunedin Brewery :Beers:
+- Sponge Docks :smile:
+- Dunedin Brewery :beers:
 - LA Bistro
